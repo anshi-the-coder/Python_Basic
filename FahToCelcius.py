@@ -11,12 +11,14 @@
 # c = int(b)
 # print(c)
 
-# a = input()
-# b = int(a)
-# print(type(b))
+# a = float(input())
+# print(type(a))
 
-a = int(input())
-b = int(input())
-print(type(a))
-s = a+b
-print(s)
+# a = int(input())
+# b = int(input())
+# print(type(a))
+# s = a+b
+# print(s)
+
+s = "4.5"
+float(s)

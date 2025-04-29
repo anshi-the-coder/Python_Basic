@@ -11,6 +11,12 @@
 # c = int(b)
 # print(c)
 
-a = input()
-b = int(a)
-print(type(b))
+# a = input()
+# b = int(a)
+# print(type(b))
+
+a = int(input())
+b = int(input())
+print(type(a))
+s = a+b
+print(s)

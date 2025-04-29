@@ -7,6 +7,10 @@
 #
 #convert string to integer
 
-b = '34'
-c = int(b)
-print(c)
+# b = '34'
+# c = int(b)
+# print(c)
+
+a = input()
+b = int(a)
+print(type(b))

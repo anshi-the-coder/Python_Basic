@@ -4,8 +4,9 @@
 # ci = (f-32) * 5//9
 # print(ci)
 
-a = input()
-b = input()
-print(type(a))
-s = a+b
-print(s)
+#
+#convert string to integer
+
+b = '34'
+c = int(b)
+print(c)

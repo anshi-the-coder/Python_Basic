@@ -1,5 +1,5 @@
 a = True
 b = False
 
-c = "Ninjas"
-print(c)
+c = True
+print(type(c))
